@@ -1,0 +1,62 @@
+{
+    "Осн. воен.": {
+        "tests": [
+            {"name": "Тест 1", "completed": true},
+            {"name": "Тест 2", "completed": true},
+            {"name": "Тест 3", "completed": true},
+            {"name": "Реферат", "completed": false}
+        ]
+    },
+    "Физ-ра": {
+        "tests": [
+            {"name": "Прак-раб", "completed": true},
+            {"name": "Контр-раб", "completed": false},
+            {"name": "Тест", "completed": false}
+        ]
+    },
+    "Англ-яз": {
+        "tests": [
+            {"name": "Контр-раб", "completed": false},
+            {"name": "Тест 1", "completed": false},
+            {"name": "Инд-зад 1", "completed": false},
+            {"name": "Прак-раб", "completed": false},
+            {"name": "Тест 2", "completed": false},
+            {"name": "Инд-зад 2", "completed": false},
+            {"name": "Тест 3", "completed": false}
+        ]
+    },
+    "История": {
+        "tests": [
+            {"name": "Тест 1", "completed": false},
+            {"name": "Тест 2", "completed": false}
+        ]
+    },
+    "Рос. гос.": {
+        "tests": [
+            {"name": "Тест 1", "completed": true},
+            {"name": "Тест 2", "completed": true},
+            {"name": "Тест 3", "completed": true},
+            {"name": "Тест 4", "completed": true},
+            {"name": "Прак-раб", "completed": false},
+            {"name": "Итог тест", "completed": false}
+        ]
+    },
+    "БЖД": {
+        "tests": [
+            {"name": "Тест", "completed": false},
+            {"name": "Реферат", "completed": false},
+            {"name": "Прак-раб", "completed": false}
+        ]
+    },
+    "Выш-мат": {
+        "tests": [
+            {"name": "Тест", "completed": false},
+            {"name": "Контр-раб", "completed": false}
+        ]
+    },
+    "Цифр. культ.": {
+        "tests": [
+            {"name": "Тест", "completed": true}
+        ]
+    }
+}
